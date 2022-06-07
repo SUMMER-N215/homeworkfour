@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin-bottom: 16px;
+}
+
+nav {
+  width: 980px;
+  height: 150px;
+  background-color: aqua;
+  margin: 0 auto;
+}
+
+.hero {
+  max-width: 980px;
+  height: 378px;
+  background-color: yellow;
+  margin: 0 auto;
+}
+
+.history {
+  max-width: 980px;
+  height: 378px;
+  margin: -25px auto 0 auto;
+}
+
+.history .history-title {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px #000000;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+
+.history p {
+  margin-top: 50px;
+}
+
+footer {
+  max-width: 980px;
+  height: 150px;
+  background-color: aqua;
+  margin: 0 auto;
+}
