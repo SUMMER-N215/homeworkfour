@@ -1,7 +1,47 @@
-nav {
+nav{
     width: 980px;
-    height: 150px;
-    background-color: aqua;
+    height: 90px;
     margin: 0 auto;
+    margin-bottom: 20px;
+    border-bottom: solid 2px #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: GillSansReg;
+
+
+    .logo{
+position: relative;
+width: 92px;
+height: 42px;
+border: solid 2px #000000;
+
+
+span{
+
+    position: absolute;
+    bottom: -5px;
+    color: #000000;
+}
+
+    }
+
+
+    .links{
+        width: 350px;
+        display: flex;
+        justify-content: space-around;
+
+        a{
+            text-decoration: none;
+            color: #000000;
+
+        }
+
+span{
+    color: #ee4367;
+}
+    }
+
 }
 

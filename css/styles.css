@@ -15,15 +15,52 @@ h1, h2, h3, h4, h5, h6, p {
 
 nav {
   width: 980px;
-  height: 150px;
-  background-color: aqua;
+  height: 90px;
   margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: solid 2px #000000;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: GillSansReg;
+}
+nav .logo {
+  position: relative;
+  width: 92px;
+  height: 42px;
+  border: solid 2px #000000;
+}
+nav .logo span {
+  position: absolute;
+  bottom: -5px;
+  color: #000000;
+}
+nav .links {
+  width: 350px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+nav .links a {
+  text-decoration: none;
+  color: #000000;
+}
+nav .links span {
+  color: #ee4367;
 }
 
 .hero {
   max-width: 980px;
   height: 378px;
-  background-color: yellow;
+  background-color: #FFD140;
   margin: 0 auto;
 }
 
@@ -47,8 +84,69 @@ nav {
 }
 
 footer {
-  max-width: 980px;
-  height: 150px;
-  background-color: aqua;
+  width: 100%;
+  height: 455px;
+  background-color: #EE4367;
   margin: 0 auto;
+}
+footer .logo {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  position: relative;
+  width: 109px;
+  height: 42px;
+  border: solid 2px #ffffff;
+}
+footer .logo span {
+  position: absolute;
+  bottom: -5px;
+  color: #ffffff;
+}
+footer .footer-info {
+  width: 300px;
+  height: 150px;
+  margin: 0 auto;
+}
+footer .footer-info p {
+  font-size: 24px;
+  color: white;
+}
+footer .signup {
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0 auto;
+}
+footer .signup input {
+  height: 100%;
+  width: 529px;
+  background-color: #f56b88;
+  border: none;
+  color: rgba(238, 67, 103, 0.5);
+}
+footer .signup ::-webkit-input-placeholder {
+  color: rgba(238, 67, 103, 0.5);
+  opacity: 1;
+}
+footer .signup ::-moz-placeholder {
+  color: rgba(238, 67, 103, 0.5);
+  opacity: 1;
+}
+footer .signup :-ms-input-placeholder {
+  color: rgba(238, 67, 103, 0.5);
+  opacity: 1;
+}
+footer .signup ::-ms-input-placeholder {
+  color: rgba(238, 67, 103, 0.5);
+  opacity: 1;
+}
+footer .signup ::placeholder {
+  color: rgba(238, 67, 103, 0.5);
+  opacity: 1;
+}
+footer .signup .button {
+  height: 100%;
+  width: 167px;
+  background-color: #ffffff;
 }
