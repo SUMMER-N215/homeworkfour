@@ -4,4 +4,4 @@
 
 # The techniques you learn this week will help you create the rest of the Eventsy site.
 
-http://in-info-web4.informatics.iupui.edu/~jaydawso/homework-four
+http://in-info-web4.informatics.iupui.edu/~jaydawso/homeworkfour
