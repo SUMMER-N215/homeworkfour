@@ -60,8 +60,8 @@ nav .links span {
 .hero {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -193,8 +193,8 @@ footer .signup .button {
 .imageOne {
   width: 489px;
   height: 187px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -203,8 +203,8 @@ footer .signup .button {
 .imageTwo {
   width: 187px;
   height: 187px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -213,8 +213,8 @@ footer .signup .button {
 .imageThree {
   width: 265px;
   height: 187px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -233,8 +233,8 @@ footer .signup .button {
 .imageFour {
   width: 603px;
   height: 306px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -243,8 +243,8 @@ footer .signup .button {
 .imageFive {
   width: 355px;
   height: 306px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -258,8 +258,8 @@ footer .signup .button {
 .hero-food {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -288,8 +288,8 @@ footer .signup .button {
 .hero-deejay {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -318,8 +318,8 @@ footer .signup .button {
 .hero-speech {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -348,8 +348,8 @@ footer .signup .button {
 .hero-openfood {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -378,8 +378,8 @@ footer .signup .button {
 .hero-int {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/gallery/1.png");
-  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/gallery/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/1.png");
+  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
