@@ -1,0 +1,38 @@
+
+
+.hero-food{
+    max-width: 980px;
+    height: 378px;
+    background-image:
+    linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)),
+    url(/images/gallery/1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0 auto;
+
+}
+
+
+.foodfest {
+    max-width: 980px;
+    height: 378px;
+    margin: -25px auto 0 auto;
+
+    
+
+}
+
+.foodfest .food-title{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;
+    border-bottom: solid 2px #000000;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    
+}
+
+.food p {
+    margin-top: 50px;
+}
