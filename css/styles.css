@@ -280,3 +280,123 @@ footer .signup .button {
 .food p {
   margin-top: 50px;
 }
+
+.hero-deejay {
+  max-width: 980px;
+  height: 378px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url(/images/gallery/1.png);
+  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(/images/gallery/1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.deejay {
+  max-width: 980px;
+  height: 378px;
+  margin: -25px auto 0 auto;
+}
+
+.deejay .deejay-title {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px #000000;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+
+.deejay p {
+  margin-top: 50px;
+}
+
+.hero-speech {
+  max-width: 980px;
+  height: 378px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url(/images/gallery/1.png);
+  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url(/images/gallery/1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.speech {
+  max-width: 980px;
+  height: 378px;
+  margin: -25px auto 0 auto;
+}
+
+.speech .speech-title {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px #000000;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+
+.speech p {
+  margin-top: 50px;
+}
+
+.hero-openfood {
+  max-width: 980px;
+  height: 378px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url(/images/gallery/1.png);
+  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url(/images/gallery/1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.openfood {
+  max-width: 980px;
+  height: 378px;
+  margin: -25px auto 0 auto;
+}
+
+.openfood .openfood-title {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px #000000;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+
+.speech p {
+  margin-top: 50px;
+}
+
+.hero-int {
+  max-width: 980px;
+  height: 378px;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url(/images/gallery/1.png);
+  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url(/images/gallery/1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.int {
+  max-width: 980px;
+  height: 378px;
+  margin: -25px auto 0 auto;
+}
+
+.int .int-title {
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: bold;
+  border-bottom: solid 2px #000000;
+  padding-right: 30px;
+  padding-bottom: 15px;
+}
+
+.int p {
+  margin-top: 50px;
+}
