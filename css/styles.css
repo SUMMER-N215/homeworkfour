@@ -13,6 +13,14 @@ h1, h2, h3, h4, h5, h6, p {
   margin-bottom: 16px;
 }
 
+@font-face {
+  font-family: GillSansReg;
+  src: url("../fonts/GillSans.ttc");
+}
+@font-face {
+  font-family: PTserif;
+  src: url("../fonts/PTSerif-Regular.ttf");
+}
 nav {
   width: 980px;
   height: 90px;
@@ -60,8 +68,8 @@ nav .links span {
 .hero {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 209, 64, 0.7)), to(rgba(255, 209, 64, 0.7))), url("../images/about.jpg");
+  background-image: linear-gradient(rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url("../images/about.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -81,13 +89,16 @@ nav .links span {
   border-bottom: solid 2px #000000;
   padding-right: 30px;
   padding-bottom: 15px;
+  font-family: GillSansReg;
 }
 
 .history p {
   margin-top: 50px;
+  font-family: GillSansReg;
 }
 
 footer {
+  font-family: GillSansReg;
   width: 100%;
   height: 455px;
   background-color: #EE4367;
@@ -159,6 +170,7 @@ footer .signup .button {
   max-width: 980px;
   min-height: 378px;
   margin: 0 auto;
+  font-family: GillSansReg;
 }
 
 .gallery span {
@@ -203,8 +215,8 @@ footer .signup .button {
 .imageTwo {
   width: 187px;
   height: 187px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/2.jpeg");
+  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/2.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -213,8 +225,8 @@ footer .signup .button {
 .imageThree {
   width: 265px;
   height: 187px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/3.jpg");
+  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -233,8 +245,8 @@ footer .signup .button {
 .imageFour {
   width: 603px;
   height: 306px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/4.jpg");
+  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -243,8 +255,8 @@ footer .signup .button {
 .imageFive {
   width: 355px;
   height: 306px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/5.png");
+  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/5.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -270,6 +282,7 @@ footer .signup .button {
   max-width: 980px;
   height: 378px;
   margin: -25px auto 0 auto;
+  font-family: GillSansReg;
 }
 
 .foodfest .food-title {
@@ -288,8 +301,8 @@ footer .signup .button {
 .hero-deejay {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(238, 67, 103, 0.7)), to(rgba(238, 67, 103, 0.7))), url("../images/2.jpeg");
+  background-image: linear-gradient(rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url("../images/2.jpeg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -300,6 +313,7 @@ footer .signup .button {
   max-width: 980px;
   height: 378px;
   margin: -25px auto 0 auto;
+  font-family: GillSansReg;
 }
 
 .deejay .deejay-title {
@@ -318,8 +332,8 @@ footer .signup .button {
 .hero-speech {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(8, 173, 105, 0.7)), to(rgba(8, 173, 105, 0.7))), url("../images/3.jpg");
+  background-image: linear-gradient(rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url("../images/3.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -330,6 +344,7 @@ footer .signup .button {
   max-width: 980px;
   height: 378px;
   margin: -25px auto 0 auto;
+  font-family: GillSansReg;
 }
 
 .speech .speech-title {
@@ -348,8 +363,8 @@ footer .signup .button {
 .hero-openfood {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(84, 13, 110, 0.7)), to(rgba(84, 13, 110, 0.7))), url("../images/4.jpg");
+  background-image: linear-gradient(rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url("../images/4.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -360,6 +375,7 @@ footer .signup .button {
   max-width: 980px;
   height: 378px;
   margin: -25px auto 0 auto;
+  font-family: GillSansReg;
 }
 
 .openfood .openfood-title {
@@ -378,8 +394,8 @@ footer .signup .button {
 .hero-int {
   max-width: 980px;
   height: 378px;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/1.png");
-  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/1.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(59, 206, 171, 0.7)), to(rgba(59, 206, 171, 0.7))), url("../images/5.png");
+  background-image: linear-gradient(rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url("../images/5.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -390,6 +406,7 @@ footer .signup .button {
   max-width: 980px;
   height: 378px;
   margin: -25px auto 0 auto;
+  font-family: GillSansReg;
 }
 
 .int .int-title {
